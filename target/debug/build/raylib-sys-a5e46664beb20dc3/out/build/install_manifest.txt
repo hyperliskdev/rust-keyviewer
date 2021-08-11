@@ -1,0 +1,10 @@
+/home/carter/Documents/Projects/rust-keyviewer/keyviewer/target/debug/build/raylib-sys-a5e46664beb20dc3/out/lib/libraylib.a
+/home/carter/Documents/Projects/rust-keyviewer/keyviewer/target/debug/build/raylib-sys-a5e46664beb20dc3/out/include/raylib.h
+/home/carter/Documents/Projects/rust-keyviewer/keyviewer/target/debug/build/raylib-sys-a5e46664beb20dc3/out/lib/pkgconfig/raylib.pc
+/home/carter/Documents/Projects/rust-keyviewer/keyviewer/target/debug/build/raylib-sys-a5e46664beb20dc3/out/lib/cmake/raylib/raylib-config-version.cmake
+/home/carter/Documents/Projects/rust-keyviewer/keyviewer/target/debug/build/raylib-sys-a5e46664beb20dc3/out/lib/cmake/raylib/raylib-config.cmake
+/home/carter/Documents/Projects/rust-keyviewer/keyviewer/target/debug/build/raylib-sys-a5e46664beb20dc3/out/include/raylib.h
+/home/carter/Documents/Projects/rust-keyviewer/keyviewer/target/debug/build/raylib-sys-a5e46664beb20dc3/out/include/rlgl.h
+/home/carter/Documents/Projects/rust-keyviewer/keyviewer/target/debug/build/raylib-sys-a5e46664beb20dc3/out/include/physac.h
+/home/carter/Documents/Projects/rust-keyviewer/keyviewer/target/debug/build/raylib-sys-a5e46664beb20dc3/out/include/raymath.h
+/home/carter/Documents/Projects/rust-keyviewer/keyviewer/target/debug/build/raylib-sys-a5e46664beb20dc3/out/include/raudio.h
